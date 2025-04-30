@@ -3,9 +3,9 @@
 This project predicts delivery time using a linear regression model built with Python (scikit-learn). It includes data preprocessing, exploratory data analysis, feature selection, model building, and residual diagnostics.
 
 ## 📁 Project Structure
-LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.zip 
-├── LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.ipynb # Jupyter notebook with full code and analysis 
-├── LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.pdf # Final project report
+LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.zip
+├── LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.ipynb   # Jupyter notebook with full code and analysis
+├── LR_Delivery_Time_Prediction_Prasoon_Kumar_Jha.pdf     # Final project report
 
 ## 📌 Key Highlights
 
